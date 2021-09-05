@@ -47,7 +47,7 @@ const questions = () => {
             type: 'list',
             name: 'license',
             message: 'Which license would you like to use?',
-            choices: ['MIT License', 'GNU GPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0']
+            choices: ['MIT', 'GNU GPLv3', 'IBM', 'Apache 2.0', 'Creative Commons','None']
         },
         {
             type: 'input',
