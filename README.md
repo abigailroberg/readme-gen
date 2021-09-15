@@ -12,7 +12,9 @@
   ## Installation
   On the CL, run npm init and then npm install inquirer.
   ## Usage
-  The command to run the app is node index.js. You will be prompted to answer questions/provide information about your project. 
+  The command to run the app is node index.js. You will be prompted to answer questions/provide information about your project.
+  ## Walkthrough Video
+  https://drive.google.com/file/d/1GukDNu6IIyHcvQt1Hiemqw8_mcbVOfjT/view
   ## License
   For more information about the license on this project, please visit https://opensource.org/licenses/MIT
   ## Contributing
